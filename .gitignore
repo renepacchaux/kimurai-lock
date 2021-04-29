@@ -17,3 +17,5 @@
 
 capybara-*.png
 data/
+
+results.json

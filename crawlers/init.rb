@@ -1,7 +1,7 @@
 class InitCrawler < ApplicationCrawler
   @name = "init_crawler"
   @start_urls = ["https://www.renepacchaux.com"]
-  @driver = :selenium_chrome
+  @driver = :mechanize
   @config = {
     headless_mode: :virtual_display,
 
