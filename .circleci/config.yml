@@ -31,14 +31,17 @@ jobs:
     steps:
       - checkout
       - ruby/install-deps
-      - python/dist
+      - jq/install      
+
       - python/install-packages:
           pkg-manager: pip
+
+      - python/dist          
       - python/install-packages:
           args: csvkit
           pkg-manager: pip
           pypi-cache: false          
-      - jq/install
+
         # enjoy output
       - run:
           name: make output
