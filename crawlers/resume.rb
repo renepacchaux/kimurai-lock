@@ -1,4 +1,4 @@
-class ResumeCrawler < ApplicationCrawler
+class Resume < ApplicationCrawler
   @name = "resume"
   @start_urls = ["https://renepacchaux-com.webflow.io/resume"]
   @driver = :mechanize
