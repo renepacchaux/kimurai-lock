@@ -22,6 +22,7 @@ jobs:
       
 
   test:
+    executor: python/default
     docker:
       - image: cimg/ruby:2.7
         auth:
