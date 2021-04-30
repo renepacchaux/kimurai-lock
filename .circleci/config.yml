@@ -32,6 +32,8 @@ jobs:
       - ruby/install-deps
       - python/dist
       - jq/install
+      - python/install-packages:
+          pkg-manager: pip      
       - run: pip install csvkit
 
 
