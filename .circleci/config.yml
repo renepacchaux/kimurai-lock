@@ -30,17 +30,10 @@ jobs:
           password: ${DOCKERHUB_PASSWORD}      
     steps:
       - checkout
-      - ruby/install-deps
       - jq/install      
+      - python/dist
+      - run: pip install csvkit
 
-      - python/install-packages:
-          pkg-manager: pip
-
-      - python/dist          
-      - python/install-packages:
-          args: csvkit
-          pkg-manager: pip
-          pypi-cache: false          
 
         # enjoy output
       - run:
