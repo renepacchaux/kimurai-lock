@@ -2,7 +2,7 @@ version: 2.1
 
 orbs:
   ruby: circleci/ruby@1.1.2
-  python: circleci/python@1.4.0
+#  python: circleci/python@1.4.0
   jq: circleci/jq@2.2.0
 
 jobs:
@@ -24,21 +24,21 @@ jobs:
   test:
 
     docker:
-      - image: cimg/python:3.9.4
+      - image: cimg/ruby:2.7
         auth:
           username: ${DOCKERHUB_USER}
           password: ${DOCKERHUB_PASSWORD}
 
-    executor: python/default          
+#    executor: python/default          
     steps:
       - checkout
       - jq/install      
-      - run: pip install csvkit
+ #     - run: pip install csvkit
 
         # enjoy output
       - run:
-          name: make output
-          command: make
+          name: make-like output
+          command: bundle exec kimurai start resume && cat results.json | jq
         # deploy
       - run:
           name: Publish
