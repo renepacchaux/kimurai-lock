@@ -33,9 +33,7 @@ jobs:
     steps:
       - checkout
       - jq/install      
-      - python/dist
       - run: pip install csvkit
-
 
         # enjoy output
       - run:
