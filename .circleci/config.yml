@@ -18,7 +18,7 @@ jobs:
       - run:
           name: install bundler
           command: gem install bundler
-      - run: bundle install --path vendor/bundle
+      - run: bundle install --path vendor/bundle --binstubs
       
 
   test:
