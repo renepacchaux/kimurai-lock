@@ -21,7 +21,8 @@ group :development do
   gem 'byebug'
   gem 'pry'
   gem 'rspec'
-
+  gem 'rubocop-rspec', require: false
+  gem 'rubocop-performance', require: false
 end
 
 #gem 'pagy', git: "https://github.com/ddnexus/pagy"
