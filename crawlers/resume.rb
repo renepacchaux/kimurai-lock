@@ -1,5 +1,5 @@
 class ResumeCrawler < ApplicationCrawler
-  @name = "resume_crawler"
+  @name = "resume"
   @start_urls = ["https://renepacchaux-com.webflow.io/resume"]
   @driver = :mechanize
   @config = {
@@ -26,8 +26,6 @@ class ResumeCrawler < ApplicationCrawler
     # item[:h6] = response.xpath("//h6").each.map { |k,v| "> " + k.text }
 
 #    item[:pdf] = response.xpath("//nav/a").each.map { |k,v| ".pdf >" + k.text + '@' + k.attr("href") }
-
-
 
 
     save_to "results.json", item, format: :pretty_json
