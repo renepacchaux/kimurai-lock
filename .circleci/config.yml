@@ -34,7 +34,7 @@ jobs:
       - checkout
       - jq/install      
  #     - run: pip install csvkit
-
+      - run: bundle install --path vendor/bundle --binstubs
         # enjoy output
       - run:
           name: make-like output
