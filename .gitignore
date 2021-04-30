@@ -18,4 +18,6 @@
 capybara-*.png
 data/
 
+/bin/*
+
 results.json
