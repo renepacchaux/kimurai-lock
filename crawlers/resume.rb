@@ -1,6 +1,15 @@
 class Resume < ApplicationCrawler
   @name = "resume"
-  @start_urls = ["https://renepacchaux-com.webflow.io/resume"]
+  @start_urls = [
+    "https://renepacchaux-com.webflow.io/",
+    "https://renepacchaux-com.webflow.io/resume",
+    "https://renepacchaux-com.webflow.io/case-study",
+    "https://renepacchaux-com.webflow.io/privacy",
+    "https://renepacchaux-com.webflow.io/terms-and-conditions",
+
+    # project specific
+    "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app"
+  ]
   @driver = :mechanize
   @config = {
     # headless_mode: :virtual_display,

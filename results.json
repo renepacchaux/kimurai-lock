@@ -1,8 +1,38 @@
 [
   {
-    "url": "https://renepacchaux-com.webflow.io/resume",
-    "main_heading": "Resume",
-    "secondary_heading": "PDF Download",
+    "url": "https://renepacchaux-com.webflow.io/",
+    "main_heading": "Active Listening UX",
+    "secondary_heading": "UX Designer",
     "position": 1
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/resume",
+    "main_heading": "work experience",
+    "secondary_heading": "document",
+    "position": 2
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/case-study",
+    "main_heading": "Usability Case Studies",
+    "secondary_heading": "UX Process",
+    "position": 3
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/privacy",
+    "main_heading": "document on policies",
+    "secondary_heading": "Privacy",
+    "position": 4
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/terms-and-conditions",
+    "main_heading": "llc company info",
+    "secondary_heading": "Terms and Conditions",
+    "position": 5
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app",
+    "main_heading": "Design, Collaboration, and Good deeds",
+    "secondary_heading": "The needs of close neighborsSync loose but directDesign workCurrent status",
+    "position": 6
   }
 ]
