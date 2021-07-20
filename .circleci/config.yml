@@ -42,7 +42,7 @@ jobs:
         # deploy
       - run:
           name: Publish
-          command: >-
+          command: >
             curl https://api.webflow.com/sites/${WEBFLOW_SITE_STRING}/publish \
             -H "Authorization: Bearer ${WEBFLOW_API_KEY}" \
             -H 'accept-version: 1.0.0' \
