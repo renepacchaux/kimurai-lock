@@ -32,13 +32,19 @@
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app",
     "main_heading": "Designing for neighborsGood deeds Design",
-    "secondary_heading": "The needs of close neighborsSync loose but directDesign workCurrent status",
+    "secondary_heading": "The needs of close neighborsThin air circle of trustDesign workCurrent status",
     "position": 6
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/case-study/huntington-bank-pavilion",
+    "main_heading": "",
+    "secondary_heading": "Navigating Northerly IslandNotice the filterable options. Our lovely venue has a weird seating format.Having to deal with bad weather, no umbrella, acquiescing to seat squatting, or just getting lost in navigation are examples. Interviews that the team and I conducted point to the importance of experience-ruiners. Moments that lose the fun of the concert or lose the core experience are looming.  ",
+    "position": 7
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/this-ux-design-portfolio",
     "main_heading": "",
     "secondary_heading": "What is a UX Designer?",
-    "position": 7
+    "position": 8
   }
 ]
