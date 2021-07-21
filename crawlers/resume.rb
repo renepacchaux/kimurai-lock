@@ -8,7 +8,9 @@ class Resume < ApplicationCrawler
     "https://renepacchaux-com.webflow.io/terms-and-conditions",
 
     # project specific
-    "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app"
+    "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app",
+    "https://renepacchaux-com.webflow.io/case-study/this-ux-design-portfolio"
+
   ]
   @driver = :mechanize
   @config = {

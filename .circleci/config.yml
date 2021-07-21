@@ -19,7 +19,7 @@ jobs:
           name: install bundler
           command: gem install bundler
       - run: bundle install --path vendor/bundle --binstubs
-      
+
 
   test:
 
@@ -29,10 +29,10 @@ jobs:
           username: ${DOCKERHUB_USER}
           password: ${DOCKERHUB_PASSWORD}
 
-#    executor: python/default          
+#    executor: python/default
     steps:
       - checkout
-      - jq/install      
+      - jq/install
  #     - run: pip install csvkit
       - run: bundle install --path vendor/bundle --binstubs
         # enjoy output
@@ -47,10 +47,10 @@ jobs:
             -H "Authorization: Bearer ${WEBFLOW_API_KEY}" \
             -H 'accept-version: 1.0.0' \
             -H "Content-Type: application/json" \
-            --data-binary $'{"domains": ["www.renepacchaux.com"]}'
-        
+            --data-binary $'{"domains": ["www.renepacchaux.com", "renepacchaux-com.webflow.io"]}'
 
-    
+
+
 
 
 
