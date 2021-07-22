@@ -10,7 +10,8 @@ class Resume < ApplicationCrawler
     # project specific
     "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app",
     "https://renepacchaux-com.webflow.io/case-study/huntington-bank-pavilion",
-    "https://renepacchaux-com.webflow.io/case-study/this-ux-design-portfolio"
+    "https://renepacchaux-com.webflow.io/case-study/this-ux-design-portfolio",
+    "https://renepacchaux-com.webflow.io/case-study/recipe-revolution"
 
   ]
   @driver = :mechanize
