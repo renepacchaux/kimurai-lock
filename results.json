@@ -32,7 +32,7 @@
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app",
     "main_heading": "Designing for neighborsGood deeds Design",
-    "secondary_heading": "The needs of close neighborsThin air circle of trustDesign workCurrent status",
+    "secondary_heading": "Neighbors at close proximityThin air trustDesign workRight now",
     "position": 6
   },
   {
@@ -46,5 +46,11 @@
     "main_heading": "",
     "secondary_heading": "What is a UX Designer?",
     "position": 8
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/case-study/recipe-revolution",
+    "main_heading": "",
+    "secondary_heading": "Recipe App Overview",
+    "position": 9
   }
 ]
