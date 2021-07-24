@@ -102,7 +102,7 @@ class ApplicationCrawler < Kimurai::Base
         # Global option to set delay between requests.
         # Delay can be `Integer`, `Float` or `Range` (`2..5`). In case of a range,
         # delay number will be chosen randomly for each request: `rand (2..5) # => 3`
-        # delay: 1..3,
+        delay: 4..8,
       }
     }
   }

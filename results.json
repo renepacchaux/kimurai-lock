@@ -38,7 +38,7 @@
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/huntington-bank-pavilion",
     "main_heading": "Navigating Northerly IslandOutdoor Music Venue",
-    "secondary_heading": "Project ChallengeWhat the user would need to buy ticketsDesign at synthesis",
+    "secondary_heading": "",
     "position": 7
   },
   {
@@ -52,5 +52,11 @@
     "main_heading": "",
     "secondary_heading": "Recipe App Overview",
     "position": 9
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/case-study/performing-arts-ux",
+    "main_heading": "",
+    "secondary_heading": "Talent Pool",
+    "position": 10
   }
 ]
