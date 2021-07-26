@@ -6,57 +6,75 @@
     "position": 1
   },
   {
-    "url": "https://renepacchaux-com.webflow.io/resume",
-    "main_heading": "work experience",
-    "secondary_heading": "document",
-    "position": 2
-  },
-  {
-    "url": "https://renepacchaux-com.webflow.io/case-study",
-    "main_heading": "Usability Case Studies",
-    "secondary_heading": "UX Process",
-    "position": 3
-  },
-  {
     "url": "https://renepacchaux-com.webflow.io/privacy",
     "main_heading": "document on policies",
     "secondary_heading": "Privacy",
-    "position": 4
+    "position": 2
   },
   {
     "url": "https://renepacchaux-com.webflow.io/terms-and-conditions",
     "main_heading": "llc company info",
     "secondary_heading": "Terms and Conditions",
+    "position": 3
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/search",
+    "main_heading": "Search results",
+    "secondary_heading": "",
+    "position": 4
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/resume",
+    "main_heading": "work experience",
+    "secondary_heading": "Projects Summary in one pagedocument",
     "position": 5
   },
   {
-    "url": "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app",
-    "main_heading": "Designing for neighborsGood deeds Design",
-    "secondary_heading": "Neighbors at close proximityThin air trustDesign workRight now",
+    "url": "https://renepacchaux-com.webflow.io/case-study",
+    "main_heading": "Usability Case Studies",
+    "secondary_heading": "UX Process",
     "position": 6
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/blog",
+    "main_heading": "trips past & planned ",
+    "secondary_heading": "Uncovering ux in the wild",
+    "position": 7
+  },
+  {
+    "url": "https://www.renepacchaux.com/designers/rene-m-paccha",
+    "main_heading": "",
+    "secondary_heading": "René M. Paccha",
+    "position": 8
+  },
+  {
+    "url": "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app",
+    "main_heading": "Good deeds",
+    "secondary_heading": "My role defining user needsThin air trustWorthy of displayCase for moving forward",
+    "position": 9
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/huntington-bank-pavilion",
     "main_heading": "Navigating Northerly IslandOutdoor Music Venue",
     "secondary_heading": "",
-    "position": 7
+    "position": 10
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/this-ux-design-portfolio",
-    "main_heading": "",
-    "secondary_heading": "What is a UX Designer?",
-    "position": 8
+    "main_heading": "Table of ContentsThis Portfolio",
+    "secondary_heading": "Getting ready to portfolio joinDescribing it throughOut design other work?",
+    "position": 11
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/recipe-revolution",
-    "main_heading": "",
-    "secondary_heading": "Recipe App Overview",
-    "position": 9
+    "main_heading": "Recipe Revolution",
+    "secondary_heading": "What we are trying to learnGoals & Objectives",
+    "position": 12
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/performing-arts-ux",
-    "main_heading": "",
-    "secondary_heading": "Talent Pool",
-    "position": 10
+    "main_heading": "Performing Arts Directory",
+    "secondary_heading": "Getting into the role",
+    "position": 13
   }
 ]

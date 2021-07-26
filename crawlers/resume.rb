@@ -2,10 +2,13 @@ class Resume < ApplicationCrawler
   @name = "resume"
   @start_urls = [
     "https://renepacchaux-com.webflow.io/",
-    "https://renepacchaux-com.webflow.io/resume",
-    "https://renepacchaux-com.webflow.io/case-study",
     "https://renepacchaux-com.webflow.io/privacy",
     "https://renepacchaux-com.webflow.io/terms-and-conditions",
+    "https://renepacchaux-com.webflow.io/search",
+    "https://renepacchaux-com.webflow.io/resume",
+    "https://renepacchaux-com.webflow.io/case-study",
+    "https://renepacchaux-com.webflow.io/blog",
+    "https://www.renepacchaux.com/designers/rene-m-paccha",
 
     # project specific
     "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app",
