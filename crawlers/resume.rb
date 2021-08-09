@@ -8,7 +8,10 @@ class Resume < ApplicationCrawler
     "https://renepacchaux-com.webflow.io/resume",
     "https://renepacchaux-com.webflow.io/case-study",
     "https://renepacchaux-com.webflow.io/blog",
-    "https://www.renepacchaux.com/designers/rene-m-paccha",
+    "https://renepacchaux-com.webflow.io/designers/rene-m-paccha",
+
+    # Util
+    "https://renepacchaux-com.webflow.io/404",
 
     # project specific
     "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app",

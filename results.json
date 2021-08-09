@@ -2,7 +2,7 @@
   {
     "url": "https://renepacchaux-com.webflow.io/",
     "main_heading": "Active Listening UX",
-    "secondary_heading": "UX Designer",
+    "secondary_heading": "",
     "position": 1
   },
   {
@@ -26,7 +26,7 @@
   {
     "url": "https://renepacchaux-com.webflow.io/resume",
     "main_heading": "work experience",
-    "secondary_heading": "Projects Summary in one pagedocument",
+    "secondary_heading": "Projects Summary in one pagePDF document",
     "position": 5
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "url": "https://renepacchaux-com.webflow.io/blog",
-    "main_heading": "trips past & planned ",
+    "main_heading": "tripsblog Posts",
     "secondary_heading": "Uncovering ux in the wild",
     "position": 7
   },
@@ -50,31 +50,31 @@
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app",
     "main_heading": "Good deeds",
-    "secondary_heading": "My role defining user needsThin air trustWorthy of displayCase for moving forward",
+    "secondary_heading": "How do you recognize neighborly deeds?",
     "position": 9
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/huntington-bank-pavilion",
-    "main_heading": "Navigating Northerly IslandOutdoor Music Venue",
-    "secondary_heading": "",
+    "main_heading": "Outdoor Music Venue",
+    "secondary_heading": "Navigating Northerly Island",
     "position": 10
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/this-ux-design-portfolio",
-    "main_heading": "Table of ContentsThis Portfolio",
-    "secondary_heading": "Getting ready to portfolio joinDescribing it throughOut design other work?",
+    "main_heading": "This Portfolio",
+    "secondary_heading": "Describing it throughOut design other work?",
     "position": 11
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/recipe-revolution",
     "main_heading": "Recipe Revolution",
-    "secondary_heading": "What we are trying to learnGoals & Objectives",
+    "secondary_heading": "Learnings we are powering up",
     "position": 12
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/performing-arts-ux",
     "main_heading": "Performing Arts Directory",
-    "secondary_heading": "Getting into the role",
+    "secondary_heading": "Performing as one",
     "position": 13
   }
 ]
