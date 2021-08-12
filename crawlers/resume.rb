@@ -41,8 +41,9 @@ class Resume < ApplicationCrawler
     item[:main_heading] = response.xpath("//h1").text
     item[:secondary_heading] = response.xpath("//h2").text
     item[:page_title] = response.xpath("//title").text
+#    item[:pending_class] = response.xpath("//*[@class='<-']")
 
-    #item[:meta_description] = response.xpath("//meta[@name='description']/@content")
+    item[:meta_description] = response.xpath("//meta[@name='description']/@content")
 
     # item[:h3] = response.xpath("//h3").each.map { |k,v| "> " + k.text }
     # item[:h4] = response.xpath("//h4").each.map { |k,v| "> " + k.text }
