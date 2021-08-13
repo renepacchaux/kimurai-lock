@@ -38,8 +38,8 @@ class Resume < ApplicationCrawler
 
     # item[:owner] = response.xpath("//h1//a[@rel='resume']").text
     item[:url] = url
-    item[:main_heading] = response.xpath("//h1").text
-    item[:secondary_heading] = response.xpath("//h2").text
+    item[:h1] = response.xpath("//h1").text
+    item[:h2] = response.xpath("//h2").text
     item[:page_title] = response.xpath("//title").text
 #    item[:pending_class] = response.xpath("//*[@class='<-']")
 
