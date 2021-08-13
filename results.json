@@ -1,114 +1,128 @@
 [
   {
     "url": "https://renepacchaux-com.webflow.io/",
-    "main_heading": "Active Listening UX",
-    "secondary_heading": "Education informs the process",
+    "h1": "Active Listening UX",
+    "h2": "Education informs the process",
     "page_title": "Paccha - Digital Usability Engineering | Rene Paccha UX",
     "meta_description": "René is a UX practitioner focusing on iterative processes such as prototypes and mental modeling within web usability, testing, navigation, and communication.",
+    "v1_json_ld": "\"\"",
     "position": 1
   },
   {
     "url": "https://renepacchaux-com.webflow.io/privacy",
-    "main_heading": "Privacy policy",
-    "secondary_heading": "Privacy and Options",
+    "h1": "Privacy policy",
+    "h2": "Privacy and Options",
     "page_title": "Privacy | Rene Paccha UX",
     "meta_description": "",
+    "v1_json_ld": "\"\"",
     "position": 2
   },
   {
     "url": "https://renepacchaux-com.webflow.io/terms-and-conditions",
-    "main_heading": "Website Terms",
-    "secondary_heading": "Terms and Conditions",
+    "h1": "Website Terms",
+    "h2": "Terms and Conditions",
     "page_title": "Terms and Conditions | Rene Paccha UX",
     "meta_description": "",
+    "v1_json_ld": "\"\\n    { \\\"@context\\\" : \\\"https://schema.org\\\",\\n      \\\"@type\\\" : \\\"Organization\\\",\\n      \\\"url\\\" : \\\"https://www.renepacchaux.com\\\",\\n      \\\"contactPoint\\\" : [\\n        { \\\"@type\\\" : \\\"ContactPoint\\\",\\n          \\\"telephone\\\" : \\\"+1-872-216-9825\\\",\\n          \\\"contactType\\\" : \\\"customer service\\\"\\n        } ] }\\n    \"",
     "position": 3
   },
   {
     "url": "https://renepacchaux-com.webflow.io/search",
-    "main_heading": "Search results",
-    "secondary_heading": "",
+    "h1": "Search results",
+    "h2": "",
     "page_title": "Search Results | Rene Paccha UX",
     "meta_description": "",
+    "v1_json_ld": "\"\"",
     "position": 4
   },
   {
     "url": "https://renepacchaux-com.webflow.io/resume",
-    "main_heading": "Work Experience",
-    "secondary_heading": "PDF document",
+    "h1": "Work Experience",
+    "h2": "PDF document",
     "page_title": "Project History | Rene Paccha UX",
     "meta_description": "Downloadable History for Rene. Responsive Mobile - Design Concept Delivery - Visual design - Concept Visualization - Performance Experience - Advanced Problem Solving",
+    "v1_json_ld": "\"\"",
     "position": 5
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study",
-    "main_heading": "Usability Case Studies",
-    "secondary_heading": "UX Process",
+    "h1": "Usability Case Studies",
+    "h2": "UX Process",
     "page_title": "Case Studies | Rene Paccha UX",
     "meta_description": "Case studies are available for download in PDF format and web.  Usability tests and the work put to a brief format.  Prototypes and launched live products.",
+    "v1_json_ld": "\"\"",
     "position": 6
   },
   {
     "url": "https://renepacchaux-com.webflow.io/blog",
-    "main_heading": "Trips",
-    "secondary_heading": "Blog posts covering ux in the wild",
+    "h1": "Trips",
+    "h2": "Blog posts covering ux in the wild",
     "page_title": "Blog | Rene Paccha UX",
     "meta_description": "",
+    "v1_json_ld": "\"\"",
     "position": 7
   },
   {
     "url": "https://renepacchaux-com.webflow.io/designers/rene-m-paccha",
-    "main_heading": "UI Generalist",
-    "secondary_heading": "René M. Paccha",
+    "h1": "UI Generalist",
+    "h2": "René M. Paccha",
     "page_title": "René M. Paccha at RPUX | Rene Paccha UX",
     "meta_description": "René couples creativity with an analytic process. He loves to help and show how information bubbles up from data when extracted from search engines,",
+    "v1_json_ld": "\"\"",
     "position": 8
   },
   {
     "url": "https://renepacchaux-com.webflow.io/404",
-    "main_heading": "404",
-    "secondary_heading": "Page not found",
+    "h1": "404",
+    "h2": "Page not found",
     "page_title": "404 - Not Found | Rene Paccha UX",
     "meta_description": "You have reached a 404 page.",
+    "v1_json_ld": "\"\"",
     "position": 9
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/gudeeds-responsive-mobile-app",
-    "main_heading": "Good deeds",
-    "secondary_heading": "How do you recognize neighborly deeds?",
+    "h1": "Good deeds",
+    "h2": "How do you recognize neighborly deeds?",
     "page_title": "Doing as neighbors do | Rene Paccha UX",
     "meta_description": "For a dietary-restrictive informational app, how could address users' directly? We got feedback on the app on-boarding process.",
+    "v1_json_ld": "\"\"",
     "position": 10
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/huntington-bank-pavilion",
-    "main_heading": "Outdoor Music Venue",
-    "secondary_heading": "Navigating Northerly Island",
+    "h1": "Outdoor Music Venue",
+    "h2": "Navigating Northerly Island",
     "page_title": "What we set out to do | Rene Paccha UX",
     "meta_description": "Our team prepared by addressing some of the most significant risks that bear on a ruined concert experience.",
+    "v1_json_ld": "\"\"",
     "position": 11
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/this-ux-design-portfolio",
-    "main_heading": "This Portfolio",
-    "secondary_heading": "Describing it throughOut design other work?",
+    "h1": "This Portfolio",
+    "h2": "Describing it throughOut design other work?",
     "page_title": "Getting ready to portfolio join | Rene Paccha UX",
     "meta_description": "Design process applied to this portfolio and additional, updated techniques to stay in the mindset required to do the work.",
+    "v1_json_ld": "\"\"",
     "position": 12
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/recipe-revolution",
-    "main_heading": "Recipe Revolution",
-    "secondary_heading": "Learning to represent restrictions",
+    "h1": "Recipe Revolution",
+    "h2": "Learning to represent restrictions",
     "page_title": "App for dietary requirements | Rene Paccha UX",
     "meta_description": "A diet-tip seeking individual uninstalls because they have just arrived at an app where they will require more help on how to use it.",
+    "v1_json_ld": "\"\"",
     "position": 13
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/performing-arts-ux",
-    "main_heading": "Performing Arts Directory",
-    "secondary_heading": "Performing as one",
+    "h1": "Performing Arts Directory",
+    "h2": "Performing as one",
     "page_title": "Getting into the role | Rene Paccha UX",
     "meta_description": "I collaborated with a graphic designer and the product owner",
+    "v1_json_ld": "\"\"",
     "position": 14
   }
 ]

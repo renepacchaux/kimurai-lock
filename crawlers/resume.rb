@@ -1,3 +1,5 @@
+require 'json'
+
 class Resume < ApplicationCrawler
   @name = "resume"
   @start_urls = [
@@ -44,6 +46,7 @@ class Resume < ApplicationCrawler
 #    item[:pending_class] = response.xpath("//*[@class='<-']")
 
     item[:meta_description] = response.xpath("//meta[@name='description']/@content")
+    item[:v1_json_ld] = response.xpath("//script[@type='application/ld+json']").text.to_json
 
     # item[:h3] = response.xpath("//h3").each.map { |k,v| "> " + k.text }
     # item[:h4] = response.xpath("//h4").each.map { |k,v| "> " + k.text }
