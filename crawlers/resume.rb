@@ -43,6 +43,9 @@ class Resume < ApplicationCrawler
     item[:h1] = response.xpath("//h1").text
     item[:h2] = response.xpath("//h2").text
     item[:page_title] = response.xpath("//title").text
+
+    if item[:page_title_min_30] = response.xpath("//title").text.length >= 30; end
+
 #    item[:pending_class] = response.xpath("//*[@class='<-']")
 
     item[:meta_description] = response.xpath("//meta[@name='description']/@content")
