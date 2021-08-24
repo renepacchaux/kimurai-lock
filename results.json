@@ -5,6 +5,7 @@
     "h2": "Portfolio ProjectsEducation Path",
     "page_title": "Paccha - Digital Usability Engineering | Rene Paccha UX",
     "meta_description": "René is a UX practitioner focusing on iterative processes such as prototypes and mental modeling within web usability, testing, navigation, and communication.",
+    "canonical": "https://www.renepacchaux.com/",
     "ld": [
 
     ],
@@ -16,6 +17,7 @@
     "h2": "Privacy and Options",
     "page_title": "Privacy | Rene Paccha UX",
     "meta_description": "",
+    "canonical": "https://www.renepacchaux.com/privacy",
     "ld": [
 
     ],
@@ -27,6 +29,7 @@
     "h2": "Terms and Conditions",
     "page_title": "Terms and Conditions | Rene Paccha UX",
     "meta_description": "",
+    "canonical": "https://www.renepacchaux.com/terms-and-conditions",
     "ld": [
       "\n    { \"@context\" : \"https://schema.org\",\n      \"@type\" : \"Organization\",\n      \"url\" : \"https://www.renepacchaux.com\",\n      \"contactPoint\" : [\n        { \"@type\" : \"ContactPoint\",\n          \"telephone\" : \"+1-872-216-9825\",\n          \"contactType\" : \"customer service\"\n        } ] }\n    "
     ],
@@ -38,6 +41,7 @@
     "h2": "",
     "page_title": "Search Results | Rene Paccha UX",
     "meta_description": "",
+    "canonical": "https://www.renepacchaux.com/search",
     "ld": [
 
     ],
@@ -49,6 +53,7 @@
     "h2": "PDF document",
     "page_title": "Project History | Rene Paccha UX",
     "meta_description": "Downloadable History for Rene. Responsive Mobile - Design Concept Delivery - Visual design - Concept Visualization - Performance Experience - Advanced Problem Solving",
+    "canonical": "https://www.renepacchaux.com/resume",
     "ld": [
 
     ],
@@ -60,6 +65,7 @@
     "h2": "Inside the Process",
     "page_title": "Case Studies | Rene Paccha UX",
     "meta_description": "Case studies are available for download in PDF format and web.  Usability tests and the work put to a brief format.  Prototypes and launched live products.",
+    "canonical": "https://www.renepacchaux.com/case-study",
     "ld": [
 
     ],
@@ -71,6 +77,7 @@
     "h2": "Blog posts on ux in the wild",
     "page_title": "Blog | Rene Paccha UX",
     "meta_description": "",
+    "canonical": "",
     "ld": [
 
     ],
@@ -78,10 +85,11 @@
   },
   {
     "url": "https://renepacchaux-com.webflow.io/designers/rene-m-paccha",
-    "h1": "Visual Generalist",
+    "h1": "User Experience Designer",
     "h2": "René M. Paccha",
     "page_title": "René M. Paccha at RPUX | Rene Paccha UX",
     "meta_description": "René couples creativity with an analytic process. He loves to help and show how information bubbles up from data when extracted from search engines,",
+    "canonical": "https://www.renepacchaux.com/rene-m-paccha",
     "ld": [
 
     ],
@@ -93,6 +101,7 @@
     "h2": "Page not found",
     "page_title": "404 - Not Found | Rene Paccha UX",
     "meta_description": "You have reached a 404 page.",
+    "canonical": "https://www.renepacchaux.com/404",
     "ld": [
 
     ],
@@ -104,6 +113,7 @@
     "h2": "Neighborly recognitionResearchDesign",
     "page_title": "Acts of togetherness | Rene Paccha UX",
     "meta_description": "In a team of 9, carrying out design decisions meant meeting with the design team more often to agree on talking points regarding a responsive mobile app.",
+    "canonical": "https://www.renepacchaux.com/case-study/gudeeds-responsive-mobile-app",
     "ld": [
 
     ],
@@ -115,6 +125,7 @@
     "h2": "Navigating Northerly Island",
     "page_title": "What we set out to do | Rene Paccha UX",
     "meta_description": "Our team prepared by addressing some of the most significant risks that bear on a ruined concert experience.",
+    "canonical": "https://www.renepacchaux.com/case-study/huntington-bank-pavilion",
     "ld": [
 
     ],
@@ -126,6 +137,7 @@
     "h2": "# UX Designer focusOut design other work?",
     "page_title": "Portfolio closeup | Rene Paccha UX",
     "meta_description": "Design process applied to this portfolio and additional, updated techniques to stay in the mindset required to do the work.",
+    "canonical": "https://www.renepacchaux.com/case-study/this-ux-design-portfolio",
     "ld": [
 
     ],
@@ -133,10 +145,11 @@
   },
   {
     "url": "https://renepacchaux-com.webflow.io/case-study/recipe-revolution",
-    "h1": "Table of ContentsRecipe Revolution",
-    "h2": "Validating visuals",
-    "page_title": "Table of Contents | Rene Paccha UX",
+    "h1": "Recipe Revolution",
+    "h2": "Visuals that work",
+    "page_title": "Uptake obstacles | Rene Paccha UX",
     "meta_description": "Design decisions on a diet app that offset the need for an on-boarding experience or removes barriers to learning about new recipes within certain criteria.",
+    "canonical": "https://www.renepacchaux.com/case-study/recipe-revolution",
     "ld": [
 
     ],
@@ -148,6 +161,7 @@
     "h2": "Leveraging established flows",
     "page_title": "Before delineating UI from UX | Rene Paccha UX",
     "meta_description": "On delivering results through elegant experiences throughout my career, I explored how to apply past roles into generating design requirements on apps.",
+    "canonical": "https://www.renepacchaux.com/case-study/performing-arts-ux",
     "ld": [
 
     ],

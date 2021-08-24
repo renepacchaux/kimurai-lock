@@ -46,6 +46,7 @@ class Resume < ApplicationCrawler
 #    item[:pending_class] = response.xpath("//*[@class='<-']")
 
     item[:meta_description] = response.xpath("//meta[@name='description']/@content")
+    item[:canonical] = response.xpath("//link[@rel='canonical']/@href")
     # whole print out
     item[:ld] = response.xpath("//script[@type='application/ld+json']").map { |x| ld = Hash.new([]); ld[:data] = x.text}
     #item[:v1_json_ld] = response.xpath("//script[@type='application/ld+json']").map { |x| d = x.text.to_json; { init: d.first } }
